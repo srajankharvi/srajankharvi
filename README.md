@@ -51,11 +51,10 @@ I enjoy learning by building projects and experimenting with new technologies.
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vercel" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48" alt="Canva"/>
-  <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" alt="Render"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="48" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="48" alt="Render"/>
   <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logoColor=white" height="48" alt="Antigravity"/>
 </p>
-
 ---
 
 # Projects
