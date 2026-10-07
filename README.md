@@ -14,7 +14,7 @@ Building things, learning continuously, and turning ideas into real-world applic
 
 # About Me
 
-I'm **Srajan Kharvi**, a BCA student and aspiring Software Developer from Karnataka, India.
+I'm **Srajan Kharvi**, a BCA student and aspiring Developer from Karnataka, India.
 
 I'm interested in building modern web applications, backend systems, and practical Machine Learning projects.
 
