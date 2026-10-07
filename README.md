@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=HI,%20SRAJAN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hello,%20I%20am%20Srajan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-### SOFTWARE DEVELOPER · WEB DEVELOPMENT · MACHINE LEARNING
+### DEVELOPER · WEB DEVELOPMENT · MACHINE LEARNING
 
 <p>
 Building things, learning continuously, and turning ideas into real-world applications.
@@ -98,26 +98,6 @@ https://www.srajankharvi.me/
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=SrajanKharvi&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrajanKharvi&layout=compact&hide_border=true&theme=transparent"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SrajanKharvi&hide_border=true&area=true&custom_title=Srajan%20Kharvi%20-%20Contribution%20Activity"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SrajanKharvi/SrajanKharvi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
