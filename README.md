@@ -37,15 +37,15 @@ I enjoy learning by building projects and experimenting with new technologies.
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,c#" />
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,react,vite" />
+<img src="https://skillicons.dev/icons?i=html,css" />
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=python,mongodb,mysql" />
 
 ### Tools
 
