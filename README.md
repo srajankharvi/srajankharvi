@@ -37,7 +37,7 @@ I enjoy learning by building projects and experimenting with new technologies.
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,c#" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs" />
 
 ### Frontend
 
