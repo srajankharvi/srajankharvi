@@ -57,10 +57,21 @@ I enjoy learning by building projects and experimenting with new technologies.
 </p>
 ---
 
+
+---
+
+# Certifications & Courses
+
+- **Infosys Springboard** — The Language of DevOps: DevOps Tools & Processes
+- **NPTEL** — Add your completed course or certificate here.
+- **Other Courses** — Add additional certifications as you earn them.
+
+
 **Portfolio:**
 https://www.srajankharvi.me/
 
 ---
+
 
 # GitHub Statistics
 
@@ -70,9 +81,14 @@ https://www.srajankharvi.me/
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrajanKharvi&layout=compact&hide_border=true&theme=transparent"/>
 
+<br/><br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SrajanKharvi&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
+
 </div>
 
 ---
+
 
 # Connect
 
