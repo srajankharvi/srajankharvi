@@ -57,37 +57,6 @@ I enjoy learning by building projects and experimenting with new technologies.
 </p>
 ---
 
-# Projects
-
-## Trade Analysis & Backtesting Platform
-
-A trading analysis platform designed to record trades, analyze performance, visualize trading data, and backtest strategies.
-
-**Tech Stack**
-
-`React` `Node.js` `Python` `MongoDB`
-
-**Features**
-
-* Trade record management
-* Profit and loss analysis
-* Trading performance dashboard
-* Daily activity heatmap
-* Interactive trading charts
-* Backtesting
-* Trade history
-* Market data integration
-
----
-
-## Developer Portfolio
-
-My personal portfolio showcasing my projects, skills, certificates, and development journey.
-
-**Tech Stack**
-
-`React` `Vite` `JavaScript` `CSS`
-
 **Portfolio:**
 https://www.srajankharvi.me/
 
